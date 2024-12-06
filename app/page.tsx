@@ -1,14 +1,7 @@
-import AcmeLogo from "@/app/ui/acme-logo";
-import { ArrowRightIcon } from "@heroicons/react/24/outline";
-import Link from "next/link";
-import Image from "next/image";
 import About from "./ui/about";
 import SkillWall from "./ui/SkillWall";
 import ProjectExperience from "./ui/work-experience/ProjectExperience";
 import WhatCanIDo from "./ui/WhatCanIDo";
-import { EmailSvg } from "./ui/svg/email";
-import { GithubSvg } from "./ui/svg/github";
-import { WebsiteSvg } from "./ui/svg/website";
 import Contact from "./ui/Contact";
 
 export default function HomePage() {
